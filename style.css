@@ -1,0 +1,173 @@
+.back { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1680px;
+	height:3000px;
+	position:absolute;
+}
+.background { 
+	background-color:rgba(196.8730142712593, 226.31249696016312, 16.03047341108322, 1);
+	width:750px;
+	height:3000px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.backgroundcircle { 
+	border-radius:500px;
+	background-color:rgba(255, 255, 255, 1);
+	width:651px;
+	height:651px;
+	position:absolute;
+	left:49px;
+	top:219px;
+}
+.img { 
+	border-radius:500px;
+	width:574px;
+	height:574px;
+	position:absolute;
+	left:88px;
+	top:257px;
+	background-image:url(ellipse_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.name { 
+	color:rgba(94.56250101327896, 86.28828540444374, 86.28828540444374, 1);
+	width:730px;
+	height:188px;
+	position:absolute;
+	left:10px;
+	top:965px;
+	font-family:Mohave;
+	text-align:center;
+	font-size:130px;
+    font-style: italic;
+	letter-spacing:-1.5;
+}
+.lastname { 
+	color:rgba(94.56250101327896, 86.28828540444374, 86.28828540444374, 1);
+	width:426px;
+	height:139px;
+	position:absolute;
+	left:162px;
+	top:1153px;
+	font-family:Mohave;
+	text-align:center;
+	font-size:100px;
+    font-style: italic;
+	letter-spacing:-1.5;
+}
+.backgroundtite { 
+	background-color:rgba(86.06250151991844, 79.96640503406525, 79.96640503406525, 1);
+	width:750px;
+	height:110px;
+	position:absolute;
+	left:0px;
+	top:1371px;
+}
+.title1 { 
+	background-color:rgb(255, 255, 255);
+	width:199px;
+	height:86px;
+	position:absolute;
+	left:-24px;
+	top:1716px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.titlepage { 
+    background-color:rgb(0, 0, 0);	
+    width:648px;
+	height:129px;
+	position:absolute;
+	left:1031px;
+	top:90px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.title2 { 
+    background-color:rgb(255, 255, 255);	
+    width:199px;
+	height:86px;
+	position:absolute;
+	left:-24px;
+	top:2112px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.title3 { 
+    background-color:rgb(255, 255, 255);
+    width:199px;
+	height:86px;
+	position:absolute;
+	left:-24px;
+	top:1980px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.title4 { 
+    background-color:rgb(255, 255, 255);
+    width:199px;
+	height:86px;
+	position:absolute;
+	left:-24px;
+	top:1848px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.titlename { 
+	color:rgba(166.91735208034515, 238.00000101327896, 15.866671800613403, 1);
+	width:552px;
+	height:40px;
+	position:absolute;
+	left:99px;
+	top:1406px;
+	font-family:Mohave;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:-1.5;
+}
+.contact { 
+	color:rgba(0, 0, 0, 1);
+	width:264px;
+	height:72px;
+	position:absolute;
+	left:243px;
+	top:1560px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:55px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.contactimg1 { 
+	width:75px;
+	height:60px;
+	position:absolute;
+	left:80px;
+	top:1724px;
+	background-image:url(263093_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.contactimg2 { 
+	width:65px;
+	height:58px;
+	position:absolute;
+	left:80px;
+	top:1862px;
+	background-image:url(phone_512_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
